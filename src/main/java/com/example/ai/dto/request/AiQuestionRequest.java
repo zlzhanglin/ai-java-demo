@@ -7,7 +7,7 @@ import jakarta.validation.constraints.NotBlank;
 /**
  * AI问答请求DTO
  *
- * @author linzhang
+ * @author lin zhang
  * @since 2026/1/28
  */
 @Data
